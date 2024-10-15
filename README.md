@@ -45,7 +45,7 @@
 
 <h3 align="center">☎️ contact ☎️</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/apple855005@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ehdgus1213@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/apple855005@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ehdgus1213@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </div>
