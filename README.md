@@ -42,7 +42,7 @@
 <h3 align="center">🍀 Velog 🍀</h3>
 <div align="center">
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gusl051989&color=white)](https://velog.io/@zaman17)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gusl051989&color=white)](https://velog.io/@gusl051989/posts)
   
 </div>
 <br>
