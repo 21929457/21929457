@@ -38,7 +38,3 @@
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gusl051989&color=white)](https://velog.io/@zaman17)
   
 </div>
-<h3>☎️ Connact ☎️</h3>
-<div>
-  
-</div>
