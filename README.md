@@ -30,7 +30,7 @@
 <h3 align="center">📋 Github Stat 📋</h3>
 <div>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=21929457&show_icons=true&&bg_color=180,FFC0CB,FFFFFF)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=21929457&show_icons=true&&bg_color=180,FFC0CB,FFFFFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21929457&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
