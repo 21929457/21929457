@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=300&section=header&text=Roopy%20Github&fontSize=90)
 
 
-<h3 align="center">✨ Skills ✨</h3>
+<h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-f02940?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -27,7 +27,7 @@
 </div>
 <br>
 <br>
-<h3 align="center">📋 Github State 📋</h3>
+<h3 align="center">📋 Github Stat 📋</h3>
 <div>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=21929457&show_icons=true&theme=dracula)
@@ -41,4 +41,11 @@
 
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gusl051989&color=white)](https://velog.io/@zaman17)
   
+</div>
+
+<h3 align="center">☎️ contact ☎️</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/apple855005@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ehdgus1213@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
 </div>
