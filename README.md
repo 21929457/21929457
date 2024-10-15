@@ -38,7 +38,7 @@
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gusl051989&color=white)](https://velog.io/@zaman17)
   
 </div>
-<h3 align="center">☎️ Connact ☎️</h3>
+<h3>☎️ Connact ☎️</h3>
 <div>
-  <img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <span>apple855005@gmail.com</span>
+  
 </div>
