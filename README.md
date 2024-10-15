@@ -9,3 +9,8 @@
 
 </div>
 <h3 align="center">🍀 Velog 🍀</h3>
+<div>
+
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gusl051989&color=white)](https://velog.io/@zaman17)
+  
+</div>
