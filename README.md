@@ -3,6 +3,7 @@
 
 <h3 align="center">✨ Skills ✨</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
@@ -33,5 +34,9 @@
 <div align="center">
 
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gusl051989&color=white)](https://velog.io/@zaman17)
+  
+</div>
+<h3 align="center">☎️ Connact ☎️</h3>
+<div>
   
 </div>
