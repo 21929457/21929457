@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=300&section=header&text=Roopy%20Github&fontSize=90)
 
-https://github.com/21929457/21929457/blob/main/README.md
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-f02940?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -42,6 +41,8 @@ https://github.com/21929457/21929457/blob/main/README.md
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gusl051989&color=white)](https://velog.io/@zaman17)
   
 </div>
+<br>
+<br>
 <h3 align="center">🏆 Solved.ac 🏆</h3>
 <div align="center">
 
