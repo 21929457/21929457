@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=300&section=header&text=Roopy%20Github&fontSize=90)
 
-
+https://github.com/21929457/21929457/blob/main/README.md
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-f02940?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -30,7 +30,7 @@
 <h3 align="center">📋 Github Stat 📋</h3>
 <div>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=21929457&show_icons=true&&bg_color=180,FFC0CB,FFFFFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=21929457&show_icons=true&&bg_color=90,FFC0CB,FFFFFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21929457&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
@@ -40,6 +40,12 @@
 <div align="center">
 
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gusl051989&color=white)](https://velog.io/@zaman17)
+  
+</div>
+<h3 align="center">🏆 Solved.ac 🏆</h3>
+<div align="center">
+
+  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={gusl051989})](https://solved.ac/{gusl051989})
   
 </div>
 
