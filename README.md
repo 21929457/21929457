@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"/>
 </div>
 <div align="center">
-   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Intelli J-3489eb?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </div>
 <h3 align="center">✏️ Studying ✏️</h3>
@@ -33,7 +33,7 @@
 <h3 align="center">📋 Github Stat 📋</h3>
 <div>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=21929457&show_icons=true&&bg_color=45,FFC0CB,FFFFFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=21929457&show_icons=true&&bg_color=FFC0CB&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21929457&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
