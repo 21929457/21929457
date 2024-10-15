@@ -45,7 +45,7 @@ https://github.com/21929457/21929457/blob/main/README.md
 <h3 align="center">🏆 Solved.ac 🏆</h3>
 <div align="center">
 
-  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={gusl051989})](https://solved.ac/{gusl051989})
+  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={gusl051989})](https://solved.ac/{gusl051989})
   
 </div>
 
