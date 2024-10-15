@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=300&section=header&text=Roopy%20Github&fontSize=90)
 <div>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5-000000?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/htmx-f58742?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
 </div>
 
