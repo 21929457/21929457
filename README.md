@@ -39,7 +39,6 @@
 <div align="center">
 
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gusl051989&color=white)](https://velog.io/@zaman17)
-  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusl051989)](https://solved.ac/gusl051989)
   
 </div>
 <br>
@@ -50,6 +49,8 @@
   [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusl051989)](https://solved.ac/gusl051989)
   
 </div>
+<br>
+<br>
 <h3>☎️ contact ☎️</h3>
 <div>
   <img src="https://img.shields.io/badge/apple855005@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
