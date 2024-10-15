@@ -40,5 +40,5 @@
 </div>
 <h3 align="center">☎️ Connact ☎️</h3>
 <div>
-  <img src="https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> <span>apple855005@gmail.com</span>
+  <img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <span>apple855005@gmail.com</span>
 </div>
