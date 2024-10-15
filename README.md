@@ -3,3 +3,7 @@
 <div>
   <p class="tit">Github State</p>
 </div>
+
+<sytle>
+  .tit {font-size: 18px; font-weight: 700; text-align:center; font-family: "Romanesco", cursive;;}
+</sytle>
