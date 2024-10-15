@@ -43,9 +43,9 @@
   
 </div>
 
-<h3 align="center">☎️ contact ☎️</h3>
-<div align="center">
+<h3>☎️ contact ☎️</h3>
+<div>
   <img src="https://img.shields.io/badge/apple855005@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   <img src="https://img.shields.io/badge/ehdgus1213@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+  <a href="https://velog.io/@gusl051989/posts"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 </div>
