@@ -3,7 +3,7 @@
 
 <h3 align="center">✨ Skills ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-f02940?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
