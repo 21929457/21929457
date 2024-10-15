@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=300&section=header&text=Roopy%20Github&fontSize=90)
-
+<div align="right">
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFC0CB&title_bg=%23FFC0CB&icon=github.svg&icon_color=%23FFFFFF&title=visitor&edge_flat=true)](https://hits.seeyoufarm.com)
+  
+</div>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-f02940?style=for-the-badge&logo=openjdk&logoColor=white"/>
