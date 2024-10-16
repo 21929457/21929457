@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=300&section=header&text=Roopy's%20Office&fontSize=90&fontColor=FFFFFF&fontAlign=40&fontAlignY=55&desc=I%20will%20be%20the%20front-end%20pirate%20king!&descAlignY=35&descAlign=23)
 <div align="right">
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFC0CB&title_bg=%23FFC0CB&icon=github.svg&icon_color=%23FFFFFF&title=visitor&edge_flat=true)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%21929457%2Fhit-counter&count_bg=%23FFC0CB&title_bg=%23FFC0CB&icon=github.svg&icon_color=%23FFFFFF&title=visitor&edge_flat=true)](https://hits.seeyoufarm.com)
   
 </div>
 <h3 align="center">✨ Tech Stack ✨</h3>
