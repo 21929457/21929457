@@ -13,13 +13,18 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe PhotoShop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"/>
 </div>
 <div align="center">
    <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
   <img src="https://img.shields.io/badge/Intelli J-3489eb?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</div>
+<h3 align="center">✨ Library ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Swiper-#6332F6.svg?style=for-the-badge&logo=swiper&logoColor=22ABF3"/>
+  <img src="https://img.shields.io/badge/Font Awesome-##538DD7.svg?style=for-the-badge&logo=fontawesome&logoColor=22ABF3"/>
 </div>
 <h3 align="center">✏️ Studying ✏️</h3>
 <div align="center">
